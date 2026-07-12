@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\shaik\OneDrive\Desktop\AIML Project\train.csv")
+df = pd.read_csv(r"C:\Users\shaik\OneDrive\Desktop\AIML Project\Epic 3 Data Pre-processing\train.csv")
 print("Dataset Shape:", df.shape)
 
 # -----------------------------
