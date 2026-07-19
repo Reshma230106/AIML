@@ -13,11 +13,11 @@ pinned: false
 Machine learning-powered web application to predict loan applicant creditworthiness using Decision Tree, Random Forest, KNN, and XGBoost classifiers.
 
 ## Team
-- Mohammed Yaseen Shaik (Team Lead)
-- Atte Archana
-- Durgam Jyothrimai
-- Kaparajulagari Pushparaju
-- Boys Sai Yaswanth
+- Reshma Shaik(Team Lead)
+- P Leela Kumar
+- Moien Shaik
+- Yarrampalli Vijay Sagar
+- Manoj Kumar Hampaiahgari
 
 ## Folder Structure
 - `1-4` — Ideation, requirement analysis, design & planning documentation (PDFs)
